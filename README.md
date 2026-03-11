@@ -16,20 +16,35 @@
 
 <br>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+## 👩‍💻 About Me
+
+![QA Engineer](https://img.shields.io/badge/QA_Engineer-FF6B9D?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Experience](https://img.shields.io/badge/Experience-9_Years-6BCB77?style=for-the-badge)
+![Dog Mom](https://img.shields.io/badge/Dog_Mom-🐕-FFD93D?style=for-the-badge)
+
+## 🛠️ Tools & Technologies
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Tools**
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=pycharm" height="40" title="PyCharm"/> &nbsp;
   <img src="https://skillicons.dev/icons?i=playwright" height="40" title="Playwright"/> &nbsp;
   <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML5"/> &nbsp;
   <img src="https://skillicons.dev/icons?i=chrome" height="40" title="Chrome"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=windows" height="40" title="Windows"/> &nbsp;
-  <img src="https://img.shields.io/badge/Cross_Browser_Testing-F57C00?style=for-the-badge&logo=testcafe&logoColor=white" height="40" title="Cross Browser Testing"/> &nbsp;
-  <img src="https://img.shields.io/badge/Allure_Report-7CB342?style=for-the-badge&logoColor=white" height="40" title="Allure Report"/> &nbsp;
-  <img src="https://img.shields.io/badge/Performance_Testing-1565C0?style=for-the-badge&logo=speedtest&logoColor=white" height="40" title="Performance Testing"/> &nbsp;
-  <img src="https://img.shields.io/badge/Security_Testing-C62828?style=for-the-badge&logo=owasp&logoColor=white" height="40" title="Security Testing"/>
-[![QA](https://img.shields.io/badge/QA_Engineer-FF6B9D?style=for-the-badge&logo=checkmarx&logoColor=white)]()
-[![Experience](https://img.shields.io/badge/Experience-9_Years-6BCB77?style=for-the-badge)]()
-[![Dog Mom](https://img.shields.io/badge/Dog_Mom-🐕-FFD93D?style=for-the-badge)]()
+  <img src="https://skillicons.dev/icons?i=windows" height="40" title="Windows"/>
+</p>
+
+**Testing**
+
+![Cross Browser Testing](https://img.shields.io/badge/Cross_Browser_Testing-F57C00?style=for-the-badge&logo=testcafe&logoColor=white)
+![Allure Report](https://img.shields.io/badge/Allure_Report-7CB342?style=for-the-badge&logoColor=white)
+![Performance Testing](https://img.shields.io/badge/Performance_Testing-1565C0?style=for-the-badge&logo=speedtest&logoColor=white)
+![Security Testing](https://img.shields.io/badge/Security_Testing-C62828?style=for-the-badge&logo=owasp&logoColor=white)
 
 </div>
 
