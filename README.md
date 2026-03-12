@@ -14,29 +14,25 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=650&lines=Breaking+things+so+you+don't+have+to+🔨;9+years+of+finding+chaos+in+code+🕵️;Python+%2B+JavaScript+%3D+test+everything+🐍;Dogs+get+me.+Code+gets+me.+Bugs+don't.+🐶)
 
-<br>
-![QA Engineer](https://img.shields.io/badge/QA_Engineer-FF6B9D?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Experience](https://img.shields.io/badge/Experience-9_Years-6BCB77?style=for-the-badge)
-![Dog Mom](https://img.shields.io/badge/Dog_Mom-🐕-FFD93D?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<p align="left">
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Cross Browser Testing](https://img.shields.io/badge/Cross_Browser_Testing-F57C00?style=for-the-badge&logo=testcafe&logoColor=white)
 ![Allure Report](https://img.shields.io/badge/Allure_Report-7CB342?style=for-the-badge&logoColor=white)
 ![Performance Testing](https://img.shields.io/badge/Performance_Testing-1565C0?style=for-the-badge&logo=speedtest&logoColor=white)
 ![Security Testing](https://img.shields.io/badge/Security_Testing-C62828?style=for-the-badge&logo=owasp&logoColor=white)
+[![QA](https://img.shields.io/badge/QA_Engineer-FF6B9D?style=for-the-badge&logo=checkmarx&logoColor=white)]()
+[![Experience](https://img.shields.io/badge/Experience-9_Years-6BCB77?style=for-the-badge)]()
+[![Dog Mom](https://img.shields.io/badge/Dog_Mom-🐕-FFD93D?style=for-the-badge)]()
 
-**Tools**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pycharm" height="40" title="PyCharm"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=playwright" height="40" title="Playwright"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML5"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=chrome" height="40" title="Chrome"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=windows" height="40" title="Windows"/>
 </p>
-</div>
-
----
 
 ## 🕵️‍♀️ About Me
 
