@@ -37,37 +37,37 @@
 ## 🕵️‍♀️ About Me
 
 
-class QAEngineer:
-    def __init__(self):
-        self.name        = "Julia"
-        self.role        = "QA Engineer 🔍"
-        self.experience  = "9 years of finding bugs before they find you"
-        self.languages   = ["Python 🐍", "JavaScript ⚡"]
-        self.testing     = ["Manual 🧠", "Automation 🤖", "Performance 🚀", "Security 🔐"]
-        self.tools       = ["Playwright", "Allure", "PyCharm", "Chrome DevTools"]
-        self.passion     = "Breaking things systematically and with great joy"
-        self.superpower  = "Reading logs others gave up on 🕵️‍♀️"
-        self.life_motto  = "If the dog didn't bite — the bug didn't reproduce 🐶"
-        self.pets        = ["🐕", "🐾", "🦴"]  # many dogs, much love
-        self.fun_fact    = "My dogs have better test coverage than most apps"
-
-    def current_status(self):
-        return "Writing a test that catches what the dev didn't notice 😈"
-
-    def daily_routine(self):
-        return [
-            "☕ Coffee",
-            "📋 Read requirements (guess the missing ones)",
-            "🐛 Find bugs",
-            "😇 File bugs diplomatically",
-            "🔁 Repeat until ship-worthy",
-        ]
-
-    def when_tests_pass(self):
-        return "Suspicious. Running them again. 🤨"
-
-    def when_tests_fail(self):
-        return "As expected. Creating a detailed bug report. 😌"
+  class QAEngineer:
+      def __init__(self):
+          self.name        = "Julia"
+          self.role        = "QA Engineer 🔍"
+          self.experience  = "9 years of finding bugs before they find you"
+          self.languages   = ["Python 🐍", "JavaScript ⚡"]
+          self.testing     = ["Manual 🧠", "Automation 🤖", "Performance 🚀", "Security 🔐"]
+          self.tools       = ["Playwright", "Allure", "PyCharm", "Chrome DevTools"]
+          self.passion     = "Breaking things systematically and with great joy"
+          self.superpower  = "Reading logs others gave up on 🕵️‍♀️"
+          self.life_motto  = "If the dog didn't bite — the bug didn't reproduce 🐶"
+          self.pets        = ["🐕", "🐾", "🦴"]  # many dogs, much love
+          self.fun_fact    = "My dogs have better test coverage than most apps"
+  
+      def current_status(self):
+          return "Writing a test that catches what the dev didn't notice 😈"
+  
+      def daily_routine(self):
+          return [
+              "☕ Coffee",
+              "📋 Read requirements (guess the missing ones)",
+              "🐛 Find bugs",
+              "😇 File bugs diplomatically",
+              "🔁 Repeat until ship-worthy",
+          ]
+  
+      def when_tests_pass(self):
+          return "Suspicious. Running them again. 🤨"
+  
+      def when_tests_fail(self):
+          return "As expected. Creating a detailed bug report. 😌"
 ## 🛠️ My Arsenal
 
 <div align="center">
