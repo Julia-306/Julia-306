@@ -39,38 +39,38 @@
  class QAEngineer: <br>
     def __init__(self): <br>
         self.name        = "Julia" <br>
-        self.role        = "QA Engineer 🔍"
-        self.experience  = "9 years of finding bugs before they find you"
-        self.languages   = ["Python 🐍", "JavaScript ⚡"]
-        self.testing     = ["Manual 🧠", "Automation 🤖", "Performance 🚀", "Security 🔐"]
-        self.tools       = ["Playwright", "Allure", "PyCharm", "Chrome DevTools"]
-        self.passion     = "Breaking things systematically and with great joy"
-        self.superpower  = "Reading logs others gave up on 🕵️‍♀️"
-        self.life_motto  = "If the dog didn't bite — the bug didn't reproduce 🐶"
-        self.pets        = ["🐕", "🐾", "🦴"]  # many dogs, much love
-        self.fun_fact    = "My dogs have better test coverage than most apps"
+        self.role        = "QA Engineer 🔍" <br>
+        self.experience  = "9 years of finding bugs before they find you" <br>
+        self.languages   = ["Python 🐍", "JavaScript ⚡"] <br>
+        self.testing     = ["Manual 🧠", "Automation 🤖", "Performance 🚀", "Security 🔐"] <br>
+        self.tools       = ["Playwright", "Allure", "PyCharm", "Chrome DevTools"] <br>
+        self.passion     = "Breaking things systematically and with great joy" <br>
+        self.superpower  = "Reading logs others gave up on 🕵️‍♀️" <br>
+        self.life_motto  = "If the dog didn't bite — the bug didn't reproduce 🐶" <br>
+        self.pets        = ["🐕", "🐾", "🦴"]  # many dogs, much love <br>
+        self.fun_fact    = "My dogs have better test coverage than most apps" <br>
   
-    def current_status(self):
-        return "Writing a test that catches what the dev didn't notice 😈"
+    def current_status(self): <br>
+        return "Writing a test that catches what the dev didn't notice 😈" <br>
   
-    def daily_routine(self):
-        return [
-            "☕ Coffee",
-            "📋 Read requirements (guess the missing ones)",
-            "🐛 Find bugs",
-            "😇 File bugs diplomatically",
-            "🔁 Repeat until ship-worthy",
-        ]
+    def daily_routine(self): <br>
+        return [ <br>
+            "☕ Coffee", <br>
+            "📋 Read requirements (guess the missing ones)", <br>
+            "🐛 Find bugs", <br>
+            "😇 File bugs diplomatically", <br>
+            "🔁 Repeat until ship-worthy", <br>
+        ] <br>
   
-    def when_tests_pass(self):
-        return "Suspicious. Running them again. 🤨"
+    def when_tests_pass(self): <br>
+        return "Suspicious. Running them again. 🤨" <br>
   
-    def when_tests_fail(self):
-        return "As expected. Creating a detailed bug report. 😌"
+    def when_tests_fail(self): <br>
+        return "As expected. Creating a detailed bug report. 😌" <br>
   
   
-  me = QAEngineer()
-  print(me.current_status())
+  me = QAEngineer() <br>
+  print(me.current_status()) <br>
   
 ## 🛠️ My Arsenal
 
