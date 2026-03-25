@@ -14,7 +14,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=650&lines=Breaking+things+so+you+don't+have+to+🔨;9+years+of+finding+chaos+in+code+🕵️;Python+%2B+JavaScript+%3D+test+everything+🐍;Dogs+get+me.+Code+gets+me.+Bugs+don't.+🐶)
 
-
 <p align="left">
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -34,9 +33,12 @@
 
 </p>
 
+</div>
+
+---
+
 ## 🕵️‍♀️ About Me
 
-````markdown
 ```python
 class QAEngineer:
     def __init__(self):
@@ -74,14 +76,9 @@ class QAEngineer:
 me = QAEngineer()
 print(me.current_status())
 ```
-````
 
-**Что важно для GitHub Markdown:**
+---
 
-- Тройные обратные кавычки ` ``` ` + `python` — включают синтаксическую подсветку
-- Все отступы (4 пробела) сохраняются внутри блока как есть
-- Пустые строки между методами — тоже остаются, PEP 8 доволен 🐍
-- Выравнивание `=` через пробелы — чисто визуальное, GitHub это рендерит корректно
 ## 🛠️ My Arsenal
 
 <div align="center">
