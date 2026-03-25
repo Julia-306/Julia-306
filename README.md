@@ -35,7 +35,7 @@
 </p>
 
 ## 🕵️‍♀️ About Me
-<div class="center-text">
+<div class="left-text">
  class QAEngineer: <br>
     def __init__(self): <br>
         self.name        = "Julia" <br>
