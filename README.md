@@ -35,43 +35,53 @@
 </p>
 
 ## 🕵️‍♀️ About Me
-<div align="left">
- class QAEngineer: <br>
-    def __init__(self): <br>
-        self.name        = "Julia" <br>
-        self.role        = "QA Engineer 🔍" <br>
-        self.experience  = "9 years of finding bugs before they find you" <br>
-        self.languages   = ["Python 🐍", "JavaScript ⚡"] <br>
-        self.testing     = ["Manual 🧠", "Automation 🤖", "Performance 🚀", "Security 🔐"] <br>
-        self.tools       = ["Playwright", "Allure", "PyCharm", "Chrome DevTools"] <br>
-        self.passion     = "Breaking things systematically and with great joy" <br>
-        self.superpower  = "Reading logs others gave up on 🕵️‍♀️" <br>
-        self.life_motto  = "If the dog didn't bite — the bug didn't reproduce 🐶" <br>
-        self.pets        = ["🐕", "🐾", "🦴"]  # many dogs, much love <br>
-        self.fun_fact    = "My dogs have better test coverage than most apps" <br>
-</div>
+
+````markdown
+```python
+class QAEngineer:
+    def __init__(self):
+        self.name       = "Julia"
+        self.role       = "QA Engineer 🔍"
+        self.experience = "9 years of finding bugs before they find you"
+        self.languages  = ["Python 🐍", "JavaScript ⚡"]
+        self.testing    = ["Manual 🧠", "Automation 🤖", "Performance 🚀", "Security 🔐"]
+        self.tools      = ["Playwright", "Allure", "PyCharm", "Chrome DevTools"]
+        self.passion    = "Breaking things systematically and with great joy"
+        self.superpower = "Reading logs others gave up on 🕵️‍♀️"
+        self.life_motto = "If the dog didn't bite — the bug didn't reproduce 🐶"
+        self.pets       = ["🐕", "🐾", "🦴"]  # many dogs, much love
+        self.fun_fact   = "My dogs have better test coverage than most apps"
+
     def current_status(self):
         return "Writing a test that catches what the dev didn't notice 😈"
-  
+
     def daily_routine(self):
         return [
-            "☕ Coffee", 
+            "☕ Coffee",
             "📋 Read requirements (guess the missing ones)",
             "🐛 Find bugs",
-            "😇 File bugs diplomatically", 
-            "🔁 Repeat until ship-worthy", 
-        ] 
-  
-    def when_tests_pass(self): 
-        return "Suspicious. Running them again. 🤨" 
-  
-    def when_tests_fail(self): 
-        return "As expected. Creating a detailed bug report. 😌" 
-  
-  
-  me = QAEngineer() 
-  print(me.current_status()) 
-  
+            "😇 File bugs diplomatically",
+            "🔁 Repeat until ship-worthy",
+        ]
+
+    def when_tests_pass(self):
+        return "Suspicious. Running them again. 🤨"
+
+    def when_tests_fail(self):
+        return "As expected. Creating a detailed bug report. 😌"
+
+
+me = QAEngineer()
+print(me.current_status())
+```
+````
+
+**Что важно для GitHub Markdown:**
+
+- Тройные обратные кавычки ` ``` ` + `python` — включают синтаксическую подсветку
+- Все отступы (4 пробела) сохраняются внутри блока как есть
+- Пустые строки между методами — тоже остаются, PEP 8 доволен 🐍
+- Выравнивание `=` через пробелы — чисто визуальное, GitHub это рендерит корректно
 ## 🛠️ My Arsenal
 
 <div align="center">
