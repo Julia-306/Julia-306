@@ -35,7 +35,7 @@
 </p>
 
 ## 🕵️‍♀️ About Me
-
+<div class="center-text">
  class QAEngineer: <br>
     def __init__(self): <br>
         self.name        = "Julia" <br>
@@ -49,28 +49,28 @@
         self.life_motto  = "If the dog didn't bite — the bug didn't reproduce 🐶" <br>
         self.pets        = ["🐕", "🐾", "🦴"]  # many dogs, much love <br>
         self.fun_fact    = "My dogs have better test coverage than most apps" <br>
+</div>
+    def current_status(self):
+        return "Writing a test that catches what the dev didn't notice 😈"
   
-    def current_status(self): <br>
-        return "Writing a test that catches what the dev didn't notice 😈" <br>
+    def daily_routine(self):
+        return [
+            "☕ Coffee", 
+            "📋 Read requirements (guess the missing ones)",
+            "🐛 Find bugs",
+            "😇 File bugs diplomatically", 
+            "🔁 Repeat until ship-worthy", 
+        ] 
   
-    def daily_routine(self): <br>
-        return [ <br>
-            "☕ Coffee", <br>
-            "📋 Read requirements (guess the missing ones)", <br>
-            "🐛 Find bugs", <br>
-            "😇 File bugs diplomatically", <br>
-            "🔁 Repeat until ship-worthy", <br>
-        ] <br>
+    def when_tests_pass(self): 
+        return "Suspicious. Running them again. 🤨" 
   
-    def when_tests_pass(self): <br>
-        return "Suspicious. Running them again. 🤨" <br>
-  
-    def when_tests_fail(self): <br>
-        return "As expected. Creating a detailed bug report. 😌" <br>
+    def when_tests_fail(self): 
+        return "As expected. Creating a detailed bug report. 😌" 
   
   
-  me = QAEngineer() <br>
-  print(me.current_status()) <br>
+  me = QAEngineer() 
+  print(me.current_status()) 
   
 ## 🛠️ My Arsenal
 
